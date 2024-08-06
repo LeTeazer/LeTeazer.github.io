@@ -1,0 +1,4 @@
+baseURL = 'https://leteazer.github.io/'
+languageCode = 'en-us'
+title = "Teazer's Blog"
+theme = "m10c"
