@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teazer&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Teazer&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Mar 2025 11:30:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>whoami</title>
+      <link>http://localhost:1313/posts/whoami/</link>
+      <pubDate>Sat, 15 Mar 2025 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/whoami/</guid>
+      <description>Hello Everyone! i&amp;rsquo;m Teazer, a 23-year-old cybersecurity enthusiast studying at école 2600 in France — a specialized cybersecurity school brimming with talented individuals.&#xA;My Current Role Working as a pentester at On-X Groupe (previously worked in a SOC). Aiming to shift into Pure Red Teaming to further develop my offensive security skills. Certifications eJPT Dante Genesis Future Plans Currently studying for CRTO and PNPT certifications. Aspiring to continuously level up in the field of cybersecurity.</description>
+    </item>
+  </channel>
+</rss>
