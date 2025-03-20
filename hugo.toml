@@ -1,6 +1,6 @@
 baseurl      = "https://leteazer.github.io"
 title        = "Teazer's Blog"
-languageCode = "fr-FR"
+languageCode = "en-US"
 theme        = "hello-friend-ng"
 paginate     = 10
 
@@ -50,13 +50,13 @@ paginate     = 10
 
 
 [languages]
-  [languages.fr]
+  [languages.en]
     title = "Teazer's Blog"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
-  [languages.fr.params]
+  [languages.en.params]
     subtitle  = "Teazer's Blog"
 
     [languages.en.params.logo]
